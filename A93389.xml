@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rout, a rout: or some part of the Armies quarters beaten up, by the day of the Lord stealing upon them. Wherein is briefly discovered the present cloudy and dark appearance of God amongst them. / By Joseph Salmon, a present member of the Army.</title>
+            <author>Salmon, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93389</idno>
+            <idno type="STC">Wing S416</idno>
+            <idno type="STC">Thomason E542_5</idno>
+            <idno type="STC">ESTC R203442</idno>
+            <idno type="EEBO-CITATION">99863396</idno>
+            <idno type="PROQUEST">99863396</idno>
+            <idno type="VID">164928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164928)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E542[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rout, a rout: or some part of the Armies quarters beaten up, by the day of the Lord stealing upon them. Wherein is briefly discovered the present cloudy and dark appearance of God amongst them. / By Joseph Salmon, a present member of the Army.</title>
+                  <author>Salmon, Joseph.</author>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb. 10. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Messiah --  Prophecies --  Early works to 1800.</term>
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164928:1" rendition="simple:additions"/>
+            <p>A Rout, A Rout: Or ſome part of the ARMIES QVARTERS <hi>BEATEN <g ref="char:V">Ʋ</g>P,</hi> By the DAY of the LORD Stealing upon Them.</p>
+            <p>Wherein is briefly diſcovered the preſent cloudy and dark appearance of God amongſt them.</p>
+            <p>By JOSEPH SALMON, a preſent Member of the <hi>ARMY.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>He that hath an ear to hear, let him hear what the Spirit ſaith.</hi>
+               </p>
+               <p>
+                  <hi>Ariſe ye, and depart, for this is not your reſt; it is polluted, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>The weapons of our warfare are not carnall, but mighty through God, to beat down ſtrong holds, &amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. N.</hi> 1649.</p>
+         </div>
+         <div type="to_commanding_powers">
+            <pb facs="tcp:164928:2"/>
+            <pb facs="tcp:164928:2"/>
+            <head>A Word to the Commanding Power in the ARMY.</head>
+            <opener>
+               <salute>By your leave, Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope, in theſe dayes of Liberty, I may be free to ſpeak a word to my fellow-Souldiers: I ſhall not trouble <hi>you</hi> with much at the preſent, for I know you have more trouble already upon your ſpirits, then you can well tell how to be rid of. My ſpeech is intended eſpecially (as I ſaid before) to my fellow-Souldiers, thoſe of the inferiour rank and quality; I have very little from the Lord to declare to You as yet: All that I have to ſay, is this; That you go on as faſt as you can with the Work you have begun, for the time draws nigh that is allotted you: Make haſte (I ſay;) yet not more haſte then good ſpeed: Make a ſhort work; but cut it ſhort in righteouſneſſe; for the day is at hand, where<g ref="char:EOLhyphen"/>in he that helpeth, and they that are holpen ſhall fall together. Gentlemen, you are the rod of God, yea, the rod of the Lords anger in his own hand, the Almighty Arm acts you; and ſo it ap<g ref="char:EOLhyphen"/>pears;
+<pb facs="tcp:164928:3"/>for no manly glory can encounter with you: in this day of the Lords wrath you ſtrike thorow King, Gentry, and Nobility, they all fall before you: You have a Commiſſion from the Lord to ſcourge <hi>England's</hi> Oppreſſors; do it in the name of God, do it (I ſay) fully, hotly, ſharply; and the ſame meaſure you mete, ſhall be met to you again; for the Lord will ere long caſt his rod into the fire of burning and deſtruction: It will be a ſweet deſtruction, wait for it.</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder an abrupt form I ſubſcribe my ſelf Yours in life and death,</hi> JOSEPH SALMON.</signed>
+            </closer>
+         </div>
+         <div type="to_army">
+            <pb facs="tcp:164928:3"/>
+            <head>To the Fellowſhip (of <hi>SAINTS</hi> ſcattered) in the ARMIE.</head>
+            <opener>
+               <salute>Dear Hearts,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know it will be a wonder to ſome of you, to be<g ref="char:EOLhyphen"/>hold this Frontispiece faced with my Character; and truly, it is as much my wonder as yours: I little thought that ever God would have called me hither.</p>
+            <p>Friends, I am yet amongſt you, I own you, I can ſay <hi>A<g ref="char:EOLhyphen"/>men</hi> to your Proceedings, although I cannot cloſe with you in the managing of them. I have a fellowſhip with you in the Lord: but I am diſtant from your dark and fleſhly en<g ref="char:EOLhyphen"/>terpriſes.</p>
+            <p>You are a ſcattered ſeed amongſt tares, and it is your name that upholds the fame of the whole: You are that little Leaven hid in the meale, whoſe reputation ſeaſons the whole lump; if it were not for you, this power of the Sword would vaniſh and be annihilated. Behold, I ſhew you a Myſtery, it is yet hidden from many, yea most of you; <hi>Thus ſaith the Lord of Hoſts, The day is coming, and now is, when I will gather up my jewels in the Army (from under this dark and carnall form of the Sword) into my ſelf; where I will be unto them Life, Liberty, Priviledge and Satisfaction, the fulneſs of Arrears, and plenty of Accommodation; when they ſhall no more contend with the world for outward Intereſt, but beholding all in Divine
+<pb facs="tcp:164928:4"/>fulneſs, ſhall in the enjoyment of it ſit down con<g ref="char:EOLhyphen"/>tented.</hi> And this I partly ſee fulfilled in my ſelf and o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>But now it may be you will wonder why I yet remain a<g ref="char:EOLhyphen"/>mongst you, ſeeing I am brought hither; I am ſure many of your verdicts will paſſe upon me, I ſhall not want the cen<g ref="char:EOLhyphen"/>ſure of moſt. But it is no matter, Caſt all your cruelty and malice upon me; the Lord in me is mighty to bear it; I will own it all, being willing to become ſin for you, though the Lord in me knows no ſin; that you, together with me, may be preſented in the Lord an eternall righteouſneſſe.</p>
+            <p>I have but this at preſent to ſay: I am now with you, as <hi>Mary</hi> at the Sepulchre, waiting to ſee the Lord: but he is riſen. Your carnall affairs are the Sepulchre where the Lord is buryed to me; he is not here, he is certainly riſen, but where to ſee him in his next appearance, I wait: I muſt ſtand at the ſepulchre till the voyce be uttered behinde me, which I beleeve will be ſhortly, both to me and many others. <hi>Till the day break, and the ſhadows flee away,</hi> Farewell my Beloved, <hi>be thou as a Roe, or a young Hart upon the mountains of</hi> Bether.</p>
+            <closer>
+               <salute>Sirs,</salute> 
+               <signed> I am yours, <hi>JOS. SAL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:164928:4"/>
+            <head>
+               <hi>A RO<g ref="char:V">Ʋ</g>T, A RO<g ref="char:V">Ʋ</g>T:</hi> OR, <hi>Some part of the Armie's Quarters beaten up, by the DAY of the LORD ſtealing upon them.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Power (or Myſtery) which acts all things, and by which whole man (in his counſels, a<g ref="char:EOLhyphen"/>ctions, and engagements) is led out and diſ<g ref="char:EOLhyphen"/>poſed according to divine will and pleaſure; I ſay, this Power (which is God) comes forth and offers it ſelf in a diverſity of appearance, and ſtill (by a divine progreſſe in the affairs of the earth) moves from one power to another, from one diſpenſation to ano<g ref="char:EOLhyphen"/>ther, from one party to another; hereby accompliſhing his eternally decreed deſigne in and upon the Creature. This is manifeſt in all diſpenſations, civil and ſpirituall.</p>
+            <p>Time was, when God had faced the Jewiſh Ceremonies (thoſe carnall manifeſtations) with a great beauty and ſplen<g ref="char:EOLhyphen"/>dor of divine Majeſtie: the Lord was there ſeen under that form to vail and hide his beauty and glory. In a time ap<g ref="char:EOLhyphen"/>pointed he departed from them, went out of them, he would dwell there no longer; but he caſts off that form or garment, and clothes himſelf with another, ſwallowed up that glory in another, the leſſer in the greater: and then all the brightneſs and luſtre of divine appearance reſided in, and dwelt upon the fleſh of the Son, as being a more true pattern, and exact reſemblance of God the divine Power. But the Lord was not here in his appearance where he would be neither; and therefore having no reſolution eternally here to tabernacle
+<pb n="2" facs="tcp:164928:5"/>or abide, in the fulneſs of Time he lays this form aſide alſo. Though he was the Son, the dear Son, the only begotten Son, a Son ſo like the Father; yet he muſt not be ſpared; he muſt be crucified, the Lord will move hence alſo: whence note, That this Divine power (or Myſtery) admits of no eternall habitation in any thing below it ſelf.</p>
+            <p>Now as This power [God] hath a daily motion out of one diſpenſation ſpirituall into another; ſo alſo it is in Civil or outward diſpenſations.</p>
+            <p>This I have found in my own experience, (by tracing this Divine power, in its going forth amongſt the ſons of Men) that it ſometimes owns this, ſometimes that form; ſome<g ref="char:EOLhyphen"/>times this, ſometimes that party; daily moving from one to another as it pleaſeth: now the Lord lives in all theſe, though in ſome darkly, in others more purely; and all theſe motions are as ſo many footſteps of God, whereby he gradu<g ref="char:EOLhyphen"/>ally aſcends out of the creature, into a more compleat image or likeneſs of himſelf.</p>
+            <p>Time was, when God dwelt amongſt us in the darkneſs of abſolute and arbitrary Monarchy: The face and beauty of Divine myſtery lived in it, deny it who can, that ſees God in all things.</p>
+            <p>In this form of Monarchy God hath vailed his beautifull preſence with a thick cloud of darkneſs: He hath made dark<g ref="char:EOLhyphen"/>neſs his ſecret place, and his pavilions round about him, have been thick clouds of the Skie. Though the image and bright<g ref="char:EOLhyphen"/>neſs of God have dwelt in it, yet under ſuch black darkneſs that man could never diſcern it. Tyranny, perſecution, oppo<g ref="char:EOLhyphen"/>ſition, will, nature and creature, hath been (as it were) that vail betwixt God and Man in this diſpenſation; all this, and whatever you will call evil in Monarchy, the Lord was pleaſed to hide himſelf under, while reſident in this carnall form. I know its difficult to ſee God in this darkneſs, the bright Sun under this black cloud: the naked and pure Spirit, u<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>er this foul habit and filthy attire; but he that cannot here diſ<g ref="char:EOLhyphen"/>cern God, is blinde and ſees not afar off.</p>
+            <p>God (having hitherto walked under this form) is now (and hath in theſe laſt dayes) come forth to rend this vail in
+<pb n="3" facs="tcp:164928:5"/>pieces, to ſhake this form, to lay it waſte, and cloath himſelf with another.</p>
+            <p>
+               <hi>How God hath and does deſtroy Monarchy, and what it figures out to us.</hi>
+            </p>
+            <p>The power and life of the King, and in him the very ſoul of Monarchy ſunk into the Parliament, and here it loſt its name barely, but not its nature; its form, but not its power, they making themſelves as abſolute and tyrannicall as ever the King in his reign, dignity and ſupremacy; yet the Lord aſcen<g ref="char:EOLhyphen"/>ded a little nearer himſelf, by taking of this form (the Parlia<g ref="char:EOLhyphen"/>ment) and hereby made way for his after-deſign.</p>
+            <p>We ſee in a ſhort time, he layes aſide that glorious ſhew and Idol, (the Parliament) and cloaths himſelf with the Ar<g ref="char:EOLhyphen"/>my: And thus both King, Monarchy and Parliament, fell into the hands, and upon the ſwords of the Army: and thus the Army are to be the executioners of that beaſt (Monarchy) which they had formerly wounded, and whoſe wound the Parliament had healed and ſalved over by a corrupt and rot<g ref="char:EOLhyphen"/>ten Treaty: all which doth figure out to me the ſtain of the glory of all fleſh: as Monarchy (or arbitrary regall power) fals by the ſword; ſo alſo ſhall that Kingly and Imperiall power of all fleſh be cut in ſunder by the ſtroke of Divine Ju<g ref="char:EOLhyphen"/>ſtice; for by his fire and by his ſword will the Lord plead with all fleſh, and the ſlain of the Lord ſhall be many: The Lord will kindle a burning under that glory wherein he hath for<g ref="char:EOLhyphen"/>merly appear'd; God himſelf ſhall be the burning, the holy One ſhall be the flame, and all fleſhly regality in us, ſhall be the fuel which ſhall be burnt up and conſumed. But we ſhal hence proceed to our former Diſcourſe, and ſhall next in order conſider</p>
+            <p>
+               <hi>How God lives in the ARMY.</hi>
+            </p>
+            <p>Thus far we ſee God hath moved from party to party, and ſits down at preſent in the Army: And here alſo God makes darkneſs his ſecret place, living under a poor, low, carnal form, and few can behold his beautifull preſence under the power of the ſword. The Lord here beſmears himſelf with blood
+<pb n="4" facs="tcp:164928:6"/>and vengeance, deforms his own beauty, hides his aimable preſence under a hideous and wrathful form.</p>
+            <p>And now in as much as God hath called me forth (from an impartiall ſpirit) to declare my Light; I ſhall (from ſome clear experience of the Armies preſent condition) diſcover that dark and cloudy appearance of the ſupreme power <hi>(God)</hi> amongſt them, whereby may be diſcerned how far below the pure appearance of The ſpirit, their preſent ſtation renders them. And I am very confident, that which I ſhall ſay, the Lord will teſtifie and bare record the truth of the ſame upon the hearts of many amongſt them. Friends! Look about you; for the Lord is now comming forth to Rip up your bowels, to ſearch your heart, and try your reins; yea, to let looſe the impriſoned Light of himſelf in you; and if the Lord by this does not ſhake many of you, then ſay, That I have propheſied Lies in the name of the Lord. Then let him that hath an ear to hear, hear, what the Lord (that ſpirit ſaith)</p>
+            <p>Thus ſaith the Lord, yea the Lord ſaith it:</p>
+            <p>
+               <hi>That the preſent condition of the Army, or the preſent appear<g ref="char:EOLhyphen"/>ance of the ſupreame power amongſt them, renders them in dark<g ref="char:EOLhyphen"/>neſſe, and far below the pure Light and life of God:</hi>
+            </p>
+            <p>That it is ſo, I offer my appeale thus.</p>
+            <p>Firſt, let them and all others (who are ſpiritually wiſe) conſider, by and from what principles God acts theſe men; I mean you Heroes of valour in the Army, you Grandees of the preſent power in the Kingdom: In patience poſſeſſe ye your ſoules till I ſhall race your foundation, and diſcover your principles, which God hath hitherto and ſtill does act you in: they are either publike or private, commonor (more properly) peculiar; your common and publike principles, are the out<g ref="char:EOLhyphen"/>ward libertie and freedom of the Nation, The eſtabliſhment of outward lawes, liberties, and priviledges; and ſome outward form of Government, which may correſpond with your ſenſe of Juſtice: what no farther yet? This is a poor earthly Tabernacle, which God at preſent hath taken up in you; I wiſh I might not have cauſe to ſay, It is a ſpeckled pretence under which your private intereſts re<g ref="char:EOLhyphen"/>fides: For I know this is the main ſpur that drives you on,
+<pb n="5" facs="tcp:164928:6"/>(ſelf-preſervation:) This is your Dalilah, your proper, private and peculiar principle: Reſolved you are to ſave your Lives, and preſerve your ſelf-intereſt, though in this expe<g ref="char:EOLhyphen"/>dition you deſtroy all other powers and intereſts whatſoever: Herein, (though you walk, as men, very carnally) yet. Dear hearts I blame you not. I know God acts you in this cloud, he goes out with you in this darkneſs, and Lets out his pre<g ref="char:EOLhyphen"/>ſence through this vail of ſelf-preſervation amongſt you, he hath crowned you with ſame, ſucceſs, and victory, while you have lived and acted in this earthly body of outward Liberty. But how far inferiour and below this is, to a Life in the purity of Divine light, (now God hath diſcloſed himſelf) I am in ſome meaſure able to diſcern.</p>
+            <p>You know not yet what it is to be dead to your own Inte<g ref="char:EOLhyphen"/>reſts, though you have profeſſed a great deal of ſelf-denyall, yet I profeſs many of you never yet knew what true ſelf donial was; and what it is truly to be diſſolved and dye out of your own carnal Intereſts: I know your bonour and dignity is great in your hearts, your renowned enterpriſes call for me<g ref="char:EOLhyphen"/>rit: Your lives and ſafeties are alſo dear to you; it is ſo, ſo it muſt be, God will have it ſo: he lives in theſe low con<g ref="char:EOLhyphen"/>cernments, and yet your hearts cannot be imbittered or diſ<g ref="char:EOLhyphen"/>engaged from them: you hugg them, you prize them, they are an object of you embraces. But I tell you, (Sirs) God is going about to unbody himſelf in you, whiles you are embra<g ref="char:EOLhyphen"/>cing This body of ſelf-ſafety and outward Liberty, he is dying and departing from it, though you ſee it not. And This know, That God will ere long leave you exceeding dark and dead in your enterpriſes: I was alive once as well as you, and in my life I laboured amongſt you (in my ſphere) as much as another; but I am now dead with the Lord; I am at reſt from my Labour; Ah happy death! ô bleſſed loſs! how farr better is it ô Lord to be diſſolved and gathered up into thy reſt, then to live the life of a worldly and carnall labour? and I know alſo that the hour of Gods judgment is come upon ma<g ref="char:EOLhyphen"/>ny of you: ſome of you have received your mortall wound already, I ſee you gaſp and ſtruggle in your confuſed and dark
+<pb n="6" facs="tcp:164928:7"/>enterpriſes. Let this ſilver Probe but ſink to the bottom of your wounded hearts, and ſomething, without queſtion, will ſpeedily be diſcovered.</p>
+            <p>
+               <hi>Ah Friends,</hi> —</p>
+            <p>If you ſaw your Intereſts in the Lord, your Lives and Li<g ref="char:EOLhyphen"/>berties in the Lord, if you ſaw all yours in the Lord, you would think it a beggarly thing to contend for any thing, or to plead Gods quarrell with any that ſhall demand them of you. Doubtleſſe, it is a poor, low, baſe, earthly ſpirit, that raiſes conteſts, and ſeeks after the ruine and blood of crea<g ref="char:EOLhyphen"/>tures, for the enjoyment of that which at beſt is but a bitter ſweet, a well being ſubject to all manner of caſualties. Lo, This is the principle that God at preſent acts you by: It is the Lord in you, inhabiting his ſecret place; and becauſe I ſee it is the Lord, I can embrace it, I can tender you in my bo<g ref="char:EOLhyphen"/>ſome-affections, while you are carried forth in this carnall diſpenſation. Nevertheleſs, I will in part diſcover to you how far ſome are dead to their own Intereſt, and whither ſhortly you muſt be brought.</p>
+            <p>Thoſe that live in the more pure knowledge and life of God, ſee themſelves (their Lives, Liberties, and all outward enjoyments) not their own, but the Lords, and theirs in the Lord, not a jot below him, or at the leaſt diſtance from him.</p>
+            <p>If we have the Lord, we have enough, becauſe he is all to us, and we the ſame fulneſſe in him: Lo, this is life, liberty, and ſatisfaction. Now no outward loſs or miſery can make us unhappy: we may be perſecuted, yet not forſaken; caſt down, yet not deſtroyed; dying, and behold we live; in bondage, yet free; becauſe the Lord is all this, and more to us. <hi>To live, to us is Christ, and to die is gain.</hi> If we have a portion of outward ſafety amongſt others, we ſee it is the Lord; if not, it is the Lord; and where the Lord is, there's Libertie: God is to us light in darkneſs, glory in ſhame, beauty in deformity, liberty in bondage, we poſſeſſe nothing, yet enjoy all things; ſuffering is our crown, death our life; yea, we live upon death daily, we cannot live without it.</p>
+            <p>Again, We are alſo contented with the diſpoſe of pro<g ref="char:EOLhyphen"/>vidence
+<pb n="7" facs="tcp:164928:7"/>in any thing that may be called ours: If any party or power command us, our lives, liberties, or intereſts, it is the pleaſure of the Father in us to give up all to them: we ſee a divine call in it, and can with alacrity yeeld obedience. Oh, it is a ſweet ſmelling ſacrifice, acceptable with the Father, when we (the ſon) are thus drawn forth to offer up our deareſt Intereſts for the world. It may be you cannot in this apprehend me: it is no matter, the Father willeth it ſhould be a myſtery.</p>
+            <p>
+               <hi>Yet farther:</hi>
+            </p>
+            <p>Our Intereſt of Life and Libertie is at your ſervice: If you call for it, take it; we are contented to be prodigall of it, to ſatisfie the blood-thirſtie ſpirit of any man in the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>While we are in the enjoyment of theſe outward things, we uſe them as if we uſed them not, being free to throw them off at the firſt demand: we are as free to ſuffer, to be tram<g ref="char:EOLhyphen"/>pled upon, to hang and burn, as to enjoy that outward liber<g ref="char:EOLhyphen"/>tie which you (ſo ſeriouſly and reſolutely) preſs after. I tell you (Sirs) Suffering is our Conqueſt: While we are ground to pieces under any power whatſoever, all this while we trample upon them: debaſing is our exalting; in that which you call miſerie and calamitie, we are more then con<g ref="char:EOLhyphen"/>querors: We dare meet you (even you, whoſe courage hath excelled, whoſe fierce countenance makes the earth to trem<g ref="char:EOLhyphen"/>ble, you who are the preſent terrour of the Nation) and appear in a naked poſture before you; yea, throw our ſelves, lives, liberties, and all upon the edge of your cruelty; and we are ſure, if you dare encounter with us here, we ſhal o<g ref="char:EOLhyphen"/>vercome you. Ah Sirs! When you ſee this way of con<g ref="char:EOLhyphen"/>queſt, you will throw your ſwords behind you in an holy de<g ref="char:EOLhyphen"/>ſpite and ſcorn; you ſhall lay all your honour in the duſt, and by that ſweet ſpirit of meekneſs ſhall deſtroy and ſubdue your Enemies.</p>
+            <p>
+               <hi>But ſecondly:</hi>
+            </p>
+            <p>I wiſh you might be carried forth into a ſerious view of the Manner of your preſent Actings. As your Principles are
+<pb n="8" facs="tcp:164928:8"/>poor and beggarly, ſo alſo the manner of your Engagements is dark and fleſhly. This cloudy and vailed appearance of God amongſt you, puts you upon prepoſterous deſignes, up<g ref="char:EOLhyphen"/>on low and carnall Enterprizes: You have taken away <hi>Charles</hi> his life, becauſe otherwiſe he would (its likely) have taken yours. True, it is the good will of the Lord it ſhould be ſo, I have nothing to ſay againſt it; the Lord in this cloud leads you forth to it; and in this you have playd the parts of men acting under a fleſhly diſcovery of things. You are led forth in a way of vengeance upon your adverſaries; you ſentence and ſhoot to death at your pleaſure; it little moves you to trample upon the blood of your enemies; this is your Victory, Glory, and Triumph. All this is well; you muſt tarry here till God moves higher a<g ref="char:EOLhyphen"/>mongſt you.</p>
+            <p>
+               <hi>I have onely this to ſay to you:</hi>
+            </p>
+            <p>Is it not a poor carnall thing for Saints, ſo high in pro<g ref="char:EOLhyphen"/>feſſion as you have been, to ſtand brangling with the World for a few carnall enjoyments? What, the ſons of ever<g ref="char:EOLhyphen"/>laſting peace, and ingaged in a carnal combat? Well, it is the Lord; I am ſatisfied. But oh, that ſweet and meek ſpirit of Chriſt! who, when he was reviled, reviled not again; was perſecuted, but with patience under-went it, and com<g ref="char:EOLhyphen"/>mitted himſelf to him that judged righteouſly. You can<g ref="char:EOLhyphen"/>not, you dare not commit your ſelves, your cauſe, your lives and liberties to the Lord, and nakedly, without any carnall oppoſition, ſurrender your Intereſt to a divine diſpoſe: Nay rather, Shall not your ſwords ſoon be ſheathed in the bowels of thoſe who obſtruct (or impede) your furious march in the road of ſelf-preſervation? Poor dear Hearts! It is the lowneſs, weakneſs, and darkneſe of God by which you are lead forth and acted. The Lord (ere long) will come forth in another appearance amongſt you; he is coming out of darkneſs (his ſecret place) into a light and open view; he will let out a more pure glory upon you, when (in an holy ſhame) you will reflect upon your preſent Employments.</p>
+            <pb n="9" facs="tcp:164928:8"/>
+            <p>I tell you (dearly Eſteemed) it is a ſcorn to us, either to pick, or plead a Quarrel with any party, for an outward or carnal Intereſt; The Lord hath ſhewed us (and will ſhortly manifeſt to you) a more eaſie and ſweet way of Victory; we can overcome by being conquered, we can loſe all, and yet be ſavers in the concluſion.</p>
+            <p>Again, for I draw homewards.</p>
+            <p>The manner of your preſent actings, is in much fear, dread, darkneſs, and confuſion; it is your daily thoughts and care, how to complot your deſignes, and lay out your Work ſo, as that you may ſave your ſelves, your honour and reputa<g ref="char:EOLhyphen"/>tion, but all is to little, you muſt ſhortly part with all; your name, fame, ſucceſs, and victory muſt all be forgotten, yea, you your ſelves ſhall rejoyce at your own Overtures.</p>
+            <p>You are very fearfull and jealous of your defamation; you are afraid to think of it: your ſpirits are involved in confuſion and diſtraction, for fear leſt your deſigne ſhould betray you. Theſe are your impriſoned thoughts, I am very certain, but ſpirituall wiſdom can diſcover them. The Lord knows, That you lie under a ſad weight of fear, terrour and diſtraction: Fear, t he pit, and a ſnare have taken hold on you, diſorder and confuſion abounds amongſt you: You grope for the wall like the blinde: you aim at Liberty and Privi<g ref="char:EOLhyphen"/>ledg, but you grope blindly after it, as knowing not which way to accompliſh it; and thus many times you ſit down weeping by the Rivers of <hi>Babylon;</hi> you are oft ſo over-whelmed in theſe troubled waters of Liberty and Priviledg, that you are conſtrained to ſink under the waves of ſorrow and darkneſs: I know the Lord judges many of you, and throws you down by the ſad and ſerious conſideration of your actings; He turns your hearts, wayes and enterpriſes upſide down before you, and I know you are under daily convictions of ſpirit. Thus the dark preſence of God ſhuts you up in fear, and keeps you under bondage: The thick cloud of horrour and confuſion vails that ſweet preſence and bright ſplendor of
+<pb n="10" facs="tcp:164928:9"/>Peace and Liberty from you; but in an appointed time the my<g ref="char:EOLhyphen"/>ſterie of light will break out in you, and upon you, when in the ſhinings of Divine Majeſty, you will clearly and purely behold things in a naked appearance, when you ſhall ſee no canſe of fear or trouble in any thing.</p>
+            <p>Thoſe that live in Love to all, ſee no cauſe to fear any: for there is no fear in love, perfect Love caſts out fear: If you were in Charity with all men, you would fear no man; for Charity thinks no evil, it knowes none, it fears none: All things are not yet reconciled to you, earth and heaven are not yet agreed; but you labour under a body and bulk of curſed enmitie, and hence is the ſpring of all your fear and jealouſie: If you could ſee all men, all Intereſts, all power in the Lord, you would be offended at none, you would not fear any, but would (with a ſweet, patient, contented, and quiet ſpirit, lie down under any thing comming from a Divine diſpoſe. We ſee and behold our ſelves (as in the Lord) without fear or jealouſie, becauſe we are really reconciled to all men, all deſignes, all intereſts: And all they that know us are carried forth in a ſpirit of Love towards us. The rea<g ref="char:EOLhyphen"/>ſon why we are hated, deſpiſed, and trampled upon, is, becauſe the world knoweth us not, they know not the Father in us.</p>
+            <p>In this ſtate of ignorance we are the objects of ſcorn and contempt, and it is our Freedom and Liberty to be ſo: The Lord in us, and we in the Lord, and with him, travail toge<g ref="char:EOLhyphen"/>ther under the worlds infirmities, and becauſe we ſee it the Fathers will, it is our meat and drink to doe it; we love to ſweat drops of blood under all mens offences: Throw all the wrath, malice, envie and ſcorn of man upon us, we fear it not, but in the Lord we are able to bear all, and ſuffer under it. Lo, thus we fill up behinde the meaſure of the ſufferings of Chriſt in our fleſh, the dyings of the Lord are manifeſted in us daily: Here, O here's a way to bring forth peace and unity: the Lord is coming, (he is coming) to diſcover it: For by this death we aſcend to a life, in all mens hearts and affections; after this croſſe of hatred, we
+<pb n="11" facs="tcp:164928:9"/>are crowned (as moſt choyce and precious) in all mens love and eſteem, when the ſpirit ſhall deſcend from one high, and be powred out upon them; they ſhall look upon us (whom in the Lord they have pierced) and mourn over us with a ſpirit of love and tenderneſs: Then ſhall we ſee of the travail of our ſouls, and be therewith ſatisfied.</p>
+            <p>Ah my dear Friends! my Soul travails again in birth with you, till the Lord be thus formed and brought forth in you: I know many of you are almoſt ſpent under your burden; you are ſo loſt in a wilderneſs of Confuſion, That you deſire and ſeek after a retired reſt; you begin to loath your husks, and to have ſome deſire after your fathers table: I ſay no more, he that does come will come, and will not tarry; behold, he comes with a recompence: you are afraid to lay down your Swords, leſt you ſhould loſe your Liberties; but the Lord will recompence this ſeven-fold into your bo<g ref="char:EOLhyphen"/>ſome, he is comming forth to make you free to ſuffer a bleſſed Freedom, a glorious Liberty, a ſufficient recompence for the loſs of all outward glories: Is it the loſs of your Honor, Fame and Dignity that you are afraid of? The Lord is com<g ref="char:EOLhyphen"/>ming to make you glad to part with it, and with a holy rejoy<g ref="char:EOLhyphen"/>cing to throw it all behind you: Ah freinds! The Lord will honour you with meekneſſe; you ſhall be the fame of the world, for true valour and ſpiritual courage; yea (now and not before) ſhall the deſire of the Nations be towards you, their lamb-like ſpirits of meekneſſe and innocency will be an enforcing invitation to the Lion-hearted devourers of the world to feed together with you in your green paſtures, and to drink of your quiet and ſtill waters: when you are become children of this new birth, you ſhall be able to play upon the hole of the Aſpe, and to dwell with the Cockatrice in his den, oppreſſion and tyranny ſhall be deſtroyed before you; the ſons of your afflictors ſhall come bending to you: that ſweet ſpirit of love and ſubjection, that God ſhall bring forth in you, ſhall attract the hearts of the world towards you, they ſhal throw down their crowns at your feet; &amp; ſhal take hold of that skirt of Righteouſneſs which is upon you, and ſay, We perceive of
+<pb n="12" facs="tcp:164928:10"/>a truth, that the Lord is in you and amongſt you. But in the mean time, you, together with the world, are ſhut up in darkneſs, and not truly diſcerning one another: you fear the world, and they are afraid of you; you are at a diſtance, invol<g ref="char:EOLhyphen"/>ved in a bloody conteſt, an earthly, luſtfull, and carnall Warfarr.</p>
+            <q>
+               <l>Where Live and Lie, and die together;</l>
+               <l>Yet but a while, it's not for ever.</l>
+            </q>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="13" facs="tcp:164928:10"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>BUt one word more, and I have done. I told you before, and now I ſay it again, That your reputation is the ſame and glory of this preſent Army; you (I know) are the main ſup<g ref="char:EOLhyphen"/>porting Pillars of it. I will tell you <hi>what I ſee in this,</hi> more plainly then I have hitherto declared. I ſee the Lord, <hi>our ſpirituall Samſon,</hi> hath laid his hands of almighty power upon <hi>(You)</hi> theſe Pillars of this woodden Fabrick, he will disjoint you, &amp; ſhake you all to pieces, and in you the whole edifice of this ſwordly Power ſhall be annihilated: the Lord wil die with it, in it (or rather out of it, and from it) and in this death he will deſtroy more then you have done all your lives time. The Lord will <hi>here</hi> take you napping, as you are eating and drink<g ref="char:EOLhyphen"/>ing; marrying, and giving in marriage to ſtrange fleſh; and the lake of divine burning ſhall conſume you. Oh, it will be a glorious day; wait for it.</p>
+            <p>I have here offered a few things to a publick view; I know the wiſe ones amongſt you will ſlight it, and diſregard it; the form, method and language invites not the curious and nice ſpirit of any man: it hath no beauty upon it, though a great deal in it, which the Princes of this world cannot
+<pb n="14" facs="tcp:164928:11"/>diſcern. It is indeed the fooliſh language of the Spirit; if you do not like it, retort it again, and I will carry it where I had it: you are like yet to have no better from me. I was once wiſe as well as you; but I am now a fool, I care not who knows it: I once <hi>alſo</hi> enjoy'd my ſelf, but I am now car<g ref="char:EOLhyphen"/>ryed out of my wits, a fool, a mad man, beſides my ſelf; if you think me any other, you are miſtaken, and it is for your ſakes that I am ſo.</p>
+            <p>And now Friends, <hi>In him that was, is, and is to come,</hi> I take my farewell of you: remember what I ſay, <hi>(is, was, and is to come.)</hi> The Lord <hi>was,</hi> when you were loweſt; he <hi>is,</hi> now you are higheſt; and he <hi>is to come,</hi> when you ſhall be nothing. <hi>Even ſo, Come Lord Jeſus, Come quickly.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
